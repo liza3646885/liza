@@ -1,0 +1,32 @@
+.block1{
+    margin-left:100px;
+    margin-top: 40px;
+    background:rebeccapurple;
+    width: 230px;
+    height: 163px;
+    border: 4px solid black;
+}
+.block2{
+    margin-left:350px;
+    margin-top: -170px;
+    background: pink;
+    width: 130px;
+    height: 300px;
+    border: 4px solid black;
+}
+.block3{
+    margin-left:500px;
+    margin-top: -117px;
+    background: lawngreen;
+    width: 250px;
+    height: 110px;
+    border: 4px solid black;
+}
+.block4{
+    margin-left:120px;
+    margin-top: 10px;
+    background: orangered;
+    width: 630px;
+    height: 100px;
+    border: 4px solid black;
+}
